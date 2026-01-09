@@ -1,0 +1,11 @@
+# 忽略 Python 自动生成的缓存目录
+__pycache__/
+*.pyc
+
+# 忽略提交作业时生成的压缩包和存储文件
+*.zip
+.ok_storage.db
+.ok_history
+
+# 忽略 Visual Studio Code 的调试配置（如果你用 VS Code 的话）
+.vscode/settings.json
