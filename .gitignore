@@ -6,6 +6,14 @@ __pycache__/
 *.zip
 .ok_storage.db
 .ok_history
+.ok_consent
+.ok_context
+.ok_disable
+construct_*.py
+tests/*.py
+
+
+
 
 # 忽略 Visual Studio Code 的调试配置（如果你用 VS Code 的话）
 .vscode/settings.json
