@@ -8,9 +8,8 @@ __pycache__/
 .ok_history
 .ok_consent
 .ok_context
-.ok_disable
-construct_*.py
-tests/*.py
+.ok_disabled
+
 
 
 
